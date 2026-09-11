@@ -1,0 +1,9 @@
+location_id,city,district,province,country
+L001,Colombo,Colombo,Western,Sri Lanka
+L002,Kandy,Kandy,Central,Sri Lanka
+L003,Galle,Galle,Southern,Sri Lanka
+L004,Negombo,Gampaha,Western,Sri Lanka
+L005,Kurunegala,Kurunegala,North Western,Sri Lanka
+L006,Matara,Matara,Southern,Sri Lanka
+L007,Jaffna,Jaffna,Northern,Sri Lanka
+L008,Ratnapura,Ratnapura,Sabaragamuwa,Sri Lanka

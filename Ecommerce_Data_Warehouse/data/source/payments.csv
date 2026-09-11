@@ -1,0 +1,6 @@
+payment_id,payment_method,payment_type
+PM001,Credit Card,Card
+PM002,Debit Card,Card
+PM003,Cash on Delivery,Cash
+PM004,Bank Transfer,Bank
+PM005,Digital Wallet,Digital

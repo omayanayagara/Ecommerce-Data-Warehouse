@@ -1,0 +1,103 @@
+customer_id,customer_name,gender,date_of_birth,city,district,customer_type,membership_level
+C001,Nimal Perera,Male,1982-03-24,Colombo,Kurunegala,Individual,Gold
+C002,Dulakshi Fernando,Male,1975-02-07,Jaffna,Jaffna,Individual,Gold
+C003,Bosily Perera,Female,1982-08-19,Negombo,Gampaha,Business,Bronze
+C004,Amaya Wijesinghe,Female,1979-04-25,Matara,Matara,Business,Bronze
+C005,Nimal Wijesinghe,Female,2002-06-20,Kandy,Kandy,Business,Bronze
+C006,Sithum Fernando,Male,1992-05-27,Jaffna,Jaffna,Business,Gold
+C007,Sahan Fernando,Male,1999-05-03,Colombo,Colombo,Individual,Bronze
+C008,Kavindi Bandara,Female,1980-06-12,Ratnapura,Ratnapura,Individual,Gold
+C009,Dilshan Fernando,Male,1980-08-13,Galle,Galle,Business,Gold
+C010,Dulakshi Jayasinghe,Male,1982-01-26,Matara,Matara,Business,Silver
+C011,Dilshan Fernando,Female,1981-11-16,Negombo,Gampaha,Business,Gold
+C012,Sithum Silva,Male,1982-12-18,Kurunegala,Kurunegala,Business,Gold
+C013,Bosily Wijesinghe,Female,1982-03-17,Jaffna,Jaffna,Business,Bronze
+C014,Kasun Fernando,Male,2000-11-14,Galle,Galle,Individual,Silver
+C015,Kavindi De Silva,Male,1996-12-04,Kurunegala,Kurunegala,Business,Gold
+C016,Tharushi Fernando,Female,1980-08-01,Kurunegala,Kurunegala,Business,Gold
+C017,Amaya Fernando,Male,1979-06-25,Kurunegala,Kurunegala,Individual,Gold
+C018,Dulakshi Perera,Female,1975-02-12,Matara,Matara,Business,Bronze
+C019,Kasun Jayasinghe,Male,1998-08-27,Kandy,Kandy,Individual,Gold
+C020,Amaya Silva,Male,1983-09-28,Ratnapura,Ratnapura,Business,Bronze
+C021,Dulakshi Jayasinghe,Female,1996-11-12,Kurunegala,Kurunegala,Business,Gold
+C022,Sithum Fernando,Male,1977-06-01,Negombo,Gampaha,Individual,Gold
+C023,Sahan Perera,Male,1982-02-02,Kandy,Kandy,Business,Bronze
+C024,Dulakshi Jayasinghe,Female,1981-09-05,Kurunegala,Kurunegala,Business,Bronze
+C025,Sithum Wijesinghe,Male,1978-11-14,Negombo,Gampaha,Business,Silver
+C026,Kavindi De Silva,Male,1976-07-24,Colombo,Colombo,Business,Bronze
+C027,Sahan Jayasinghe,Female,1979-07-06,Negombo,Gampaha,Business,Silver
+C028,Sahan Fernando,Male,1976-11-18,Ratnapura,Ratnapura,Individual,Bronze
+C029,Sahan Silva,Female,1990-04-28,Jaffna,Jaffna,Business,Bronze
+C030,Amaya Wijesinghe,Female,1983-08-10,Colombo,Colombo,Business,Gold
+C031,Dulakshi De Silva,Male,1984-04-02,Galle,Galle,Individual,Gold
+C032,Tharushi Perera,Female,1991-09-06,Colombo,Colombo,Individual,Gold
+C033,Nimal Silva,Male,1996-04-13,Kandy,Kandy,Individual,Gold
+C034,Sahan Perera,Female,1996-10-19,Kandy,Kandy,Business,Silver
+C035,Sahan Gunawardena,Female,1987-03-22,Negombo,Gampaha,Business,Silver
+C036,Tharushi Fernando,Female,1994-10-04,Colombo,Colombo,Individual,Gold
+C037,Sahan Bandara,Female,2003-02-08,Galle,Galle,Business,Silver
+C038,Amaya De Silva,Male,1996-09-10,Kurunegala,Kurunegala,Individual,Bronze
+C039,Dilshan Fernando,Male,1983-05-20,Kandy,Kandy,Individual,Gold
+C040,Tharushi Jayasinghe,Female,1983-01-03,Kurunegala,Kurunegala,Business,Silver
+C041,Kasun Perera,Male,1995-05-06,Matara,Matara,Business,Gold
+C042,Kavindi Perera,Male,2003-12-05,Kandy,Kandy,Individual,Silver
+C043,Bosily Silva,Male,1976-05-12,Jaffna,Jaffna,Individual,Silver
+C044,Sahan Jayasinghe,Female,1999-09-28,Kandy,Kandy,Business,Gold
+C045,Amaya Jayasinghe,Male,2003-07-01,Galle,Galle,Individual,Gold
+C046,Tharushi Wijesinghe,Female,1980-12-04,Negombo,Gampaha,Business,Bronze
+C047,Sithum Jayasinghe,Female,1986-05-27,Negombo,Gampaha,Individual,Bronze
+C048,Kasun Jayasinghe,Female,1983-02-25,Jaffna,Jaffna,Business,Silver
+C049,Dulakshi Wijesinghe,Male,1978-05-06,Matara,Matara,Business,Bronze
+C050,Nimal Wijesinghe,Female,1988-10-17,Matara,Matara,Individual,Silver
+C051,Bosily Jayasinghe,Male,1997-07-01,Kurunegala,Kurunegala,Individual,Silver
+C052,Kavindi Fernando,Female,1996-02-24,Matara,Matara,Business,Gold
+C053,Dilshan Wijesinghe,Female,1997-05-18,Matara,Matara,Individual,Bronze
+C054,Kavindi Wijesinghe,Female,1987-09-27,Galle,Galle,Individual,Silver
+C055,Dilshan Jayasinghe,Female,1989-08-15,Jaffna,Jaffna,Individual,Gold
+C056,Sithum Silva,Female,1991-11-21,Kandy,Kandy,Business,Bronze
+C057,Sahan Bandara,Male,1979-01-02,Negombo,Gampaha,Individual,Silver
+C058,Bosily Fernando,Female,2003-11-19,Ratnapura,Ratnapura,Individual,Gold
+C059,Kavindi De Silva,Male,1979-11-23,Jaffna,Jaffna,Individual,Bronze
+C060,Kavindi Jayasinghe,Female,1976-09-08,Galle,Galle,Individual,Silver
+C061,Amaya De Silva,Female,1994-12-17,Matara,Matara,Business,Gold
+C062,Sithum Silva,Female,1983-04-27,Ratnapura,Ratnapura,Business,Gold
+C063,Sithum Jayasinghe,Female,1977-12-10,Kurunegala,Kurunegala,Individual,Silver
+C064,Tharushi Gunawardena,Male,1979-04-13,Kandy,Kandy,Individual,Gold
+C065,Sahan Fernando,Female,1985-09-15,Jaffna,Jaffna,Business,Bronze
+C066,Sahan Wijesinghe,Male,2002-10-13,Jaffna,Jaffna,Business,Bronze
+C067,Tharushi Bandara,Female,1992-12-24,Jaffna,Jaffna,Individual,Silver
+C068,Sahan Bandara,Female,1975-07-11,Jaffna,Jaffna,Business,Gold
+C069,Amaya De Silva,Male,2004-07-19,Galle,Galle,Individual,Bronze
+C070,Kavindi Silva,Male,1976-05-13,Ratnapura,Ratnapura,Business,Bronze
+C071,Sithum Gunawardena,Female,1983-07-09,Matara,Matara,Individual,Silver
+C072,Kasun Perera,Male,1995-02-25,Matara,Matara,Individual,Bronze
+C073,Sahan Jayasinghe,Male,1982-03-16,Colombo,Colombo,Individual,Gold
+C074,Sahan De Silva,Female,1980-10-20,Kurunegala,Kurunegala,Individual,Bronze
+C075,Dilshan Fernando,Female,1993-11-13,Colombo,Colombo,Business,Gold
+C076,Sahan Fernando,Male,1997-05-28,Negombo,Gampaha,Individual,Gold
+C077,Kasun Gunawardena,Female,1977-09-21,Jaffna,Jaffna,Business,Bronze
+C078,Kavindi De Silva,Female,1986-11-27,Kandy,Kandy,Business,Gold
+C079,Amaya Wijesinghe,Female,1994-09-25,Galle,Galle,Business,Silver
+C080,Kavindi Bandara,Male,2001-02-09,Matara,Matara,Business,Bronze
+C081,Sithum Wijesinghe,Male,1990-06-06,Matara,Matara,Business,Bronze
+C082,Tharushi Bandara,Female,2003-10-23,Matara,Matara,Business,Gold
+C083,Kasun Jayasinghe,Male,1998-07-16,Kandy,Kandy,Individual,Gold
+C084,Sithum De Silva,Male,1977-05-08,Ratnapura,Ratnapura,Business,Gold
+C085,Sahan Bandara,Female,1992-09-12,Matara,Matara,Business,Gold
+C086,Dulakshi Gunawardena,Female,1983-05-09,Matara,Matara,Individual,Bronze
+C087,Sahan Gunawardena,Male,1981-04-24,Kandy,Kandy,Business,Silver
+C088,Bosily Bandara,Male,1984-04-12,Kandy,Kandy,Individual,Silver
+C089,Kasun Silva,Male,1976-09-10,Kurunegala,Kurunegala,Individual,Gold
+C090,Sithum Fernando,Female,1990-08-15,Colombo,Colombo,Business,Bronze
+C091,Kasun Bandara,Male,2001-02-13,Ratnapura,Ratnapura,Business,Bronze
+C092,Bosily Perera,Male,2000-10-10,Galle,Galle,Individual,Bronze
+C093,Nimal Wijesinghe,Female,1989-08-10,Negombo,Gampaha,Business,Silver
+C094,Bosily Perera,Male,1995-04-09,Kandy,Kandy,Individual,Bronze
+C095,Sahan Silva,Male,1975-07-15,Kandy,Kandy,Business,Silver
+C096,Kasun Jayasinghe,Female,1997-08-03,Kurunegala,Kurunegala,Individual,Silver
+C097,Bosily Jayasinghe,Male,1992-04-21,Jaffna,Jaffna,Individual,Silver
+C098,Amaya Fernando,Male,2000-05-20,Colombo,Colombo,Business,Silver
+C099,Nimal De Silva,Female,1983-09-18,Kurunegala,Kurunegala,Business,Silver
+C100,Nimal Perera,Female,1994-05-01,Jaffna,Jaffna,Individual,Bronze
+C101,Omaya Nayagara,Female,2004-12-11,Rathnapura,Rathnapura,Individual,Silver
+C102,Nayagara Weerasinghe,Female,2004-12-11,Rathnapura,Rathnapura,Individual,Silver
