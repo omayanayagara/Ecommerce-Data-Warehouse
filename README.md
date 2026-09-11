@@ -42,4 +42,4 @@ The Customer Dimension implements Slowly Changing Dimension Type 2 to preserve h
 
 - Omaya Nayagara - CIT-24-01-0373 — Project Lead / Technical Lead
 - Bosilu Pupulewela - CIT-24-01-0471 — Design & Presentation
-- Dulakshi Hashinika CIT-24-01-0241 — Data, Analytics & Documentation 
+- Dulakshi Hashinika CIT-24-01-0254 — Data, Analytics & Documentation 
